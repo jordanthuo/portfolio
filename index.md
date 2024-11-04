@@ -10,7 +10,7 @@ Explore my projects, reports, and technical documentation. Below are some of the
 ## Projects
 
 - **[Automated Polar Oriented Crane](https://1drv.ms/b/s!AttY_GggSpWxgaNuUjbsCmmlIma3yQ?e=olPPTb)**: This project demonstrates control systems and automation engineering principles applied in a polar crane design.
-- **[Self-Driving Car Prototype](https://1drv.ms/b/s!AttY_GggSpWxgaxw8szj7eTHjYpSGA?e=j829kr)**: A project focused on creating an AI capable of strategic decision-making in chess.
+- **[Self-Driving Car Prototype](https://1drv.ms/b/s!AttY_GggSpWxgaxw8szj7eTHjYpSGA?e=j829kr)**: A project focused on creating a self driving line following robot.
 - **[Quadrupedal Walking Robot](https://1drv.ms/b/s!AttY_GggSpWxgaxvMDO9JarKkVoOSQ?e=OxaAEk)**: Developing a quadrupedal robot with adaptable walking algorithms.
 
 ## About Me
