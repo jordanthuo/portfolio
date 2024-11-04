@@ -16,5 +16,3 @@ Explore my projects, reports, and technical documentation. Below are some of the
 ## About Me
 
 I'm Jordan Thuo, an engineering student with experience in Mechatronics Engineering, and Physics. My portfolio highlights my technical skills and engineering projects.
-
-[Learn more about me](readme.md)
