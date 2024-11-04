@@ -24,31 +24,31 @@ My name is **Jordan Thuo**, an engineering and science student majoring in Mecha
 
 - **Description:** This project involves designing a crane with polar orientation capabilities to enhance automation efficiency.
 - **Technologies Used:** MATLAB, Python, Control Systems.
-- **Files:** [Report](./projects/Automated_Crane/report.pdf), [Code](./projects/Automated_Crane/code)
+- **Files:** [Report](https://1drv.ms/b/s!AttY_GggSpWxgaNuUjbsCmmlIma3yQ?e=olPPTb), [Code](./projects/Automated_Crane/code)
 
 ### 2. Strategic Decision-Making Chess AI
 
 - **Description:** Developed a chess AI to make strategic decisions based on probability and game theory.
 - **Technologies Used:** Python, Machine Learning, AI Algorithms.
-- **Files:** [Report](./projects/Chess_AI/report.pdf), [Code](./projects/Chess_AI/code)
+- **Files:** [Report](https://1drv.ms/t/s!AttY_GggSpWxgaxz7qlKiIe5QC6pHg?e=vsLbMK), [Code](./projects/Chess_AI/code)
 
 ### 3. Quadrupedal Walking Robot
 
 - **Description:** Built a quadrupedal robot prototype and tested various walking algorithms to improve stability and adaptability.
 - **Technologies Used:** Python, Arduino, Mechanics.
-- **Files:** [Report](./projects/Quadruped_Robot/report.pdf), [Code](./projects/Quadruped_Robot/code)
+- **Files:** [Report](https://1drv.ms/b/s!AttY_GggSpWxgaxvMDO9JarKkVoOSQ?e=OxaAEk), [Code](./projects/Quadruped_Robot/code)
 
 ### 4. Self-Driving Car Prototype
 
 - **Description:** Developed a self-driving car prototype with lane detection and obstacle avoidance features.
 - **Technologies Used:** OpenCV, ROS, Python.
-- **Files:** [Report](./projects/Self_Driving_Car/report.pdf), [Code](./projects/Self_Driving_Car/code)
+- **Files:** [Report](https://1drv.ms/b/s!AttY_GggSpWxgaxw8szj7eTHjYpSGA?e=j829kr), [Code](./projects/Self_Driving_Car/code)
 
-### 5. Vertical Take-Off and Landing (VTOL) Aircraft Model
+### 5. Vertical Take-Off and Landing Aircraft Model
 
 - **Description:** Designed a control system for a VTOL aircraft, simulating the dynamics of a Harrier Jump Jet.
 - **Technologies Used:** MATLAB, Control Systems, Aerodynamics.
-- **Files:** [Report](./projects/VTOL_Aircraft/report.pdf), [Code](./projects/VTOL_Aircraft/code)
+- **Files:** [Report](https://1drv.ms/b/s!AttY_GggSpWxgaxxkfYBhwRD7Vs72A?e=1j8AVW), [Code](./projects/VTOL_Aircraft/code)
 
 > More projects can be found in the individual project folders with associated reports and code.
 
@@ -66,8 +66,8 @@ This portfolio demonstrates my experience in:
 
 Feel free to reach out if you have questions or opportunities for collaboration.
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- **Email:** [jthuo1@outlook.com](mailto:jthuo1@outlook.com)
+- **LinkedIn:** [linkedin.com/in/jordan-thuo](https://www.linkedin.com/in/jordan-thuo)
 
 ---
 
