@@ -92,7 +92,7 @@
                 <h3>Queensland University of Technology</h3>
                 <h4>Event Planner</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                    Organized and coordinated university events, enhancing community engagement and providing students with networking opportunities with industry professionals.
                 </p>
             </div>
 
@@ -108,7 +108,7 @@
                 <h3>IGA Tingalpa</h3>
                 <h4>Retail Assistant</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                    Provided exceptional customer service, maintained inventory, and ensured the cleanliness and organization of the retail space to create a welcoming environment for customers.
                 </p>
             </div>
 
@@ -116,7 +116,7 @@
                 <h3>The Coffee Club</h3>
                 <h4>Food & Beverage Attendant</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                    Provided high-quality customer service in a fast-paced environment, ensuring customer satisfaction by maintaining standards of food safety, cleanliness, and efficient service.
                 </p>
             </div>
         </div>
@@ -266,9 +266,16 @@
         <div id="contact-form">
             <form method="POST" action="https://formspree.io/mdkogrla">
                 <input type="hidden" name="_subject" value="Contact From Portfolio Website" />
-                <input type="email" name="_replyto" placeholder="jthuo1@outlook.com" required>
-                <textarea name="message" placeholder="Your message" required></textarea>
-                <button type="submit">Send</button>
+                <!-- Read-only email input with your email address -->
+            	<label for="email">Email:</label>
+            	<input type="email" id="email" name="_replyto" value="jthuo1@outlook.com" readonly>
+
+            	<!-- Message textarea -->
+            	<label for="message">Message:</label>
+            	<textarea id="message" name="message" placeholder="Your message" required></textarea>
+            
+            	<!-- Submit button -->
+            	<button type="submit">Send</button>
             </form>
         </div>
         <!-- End #contact-form -->
